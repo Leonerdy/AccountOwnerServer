@@ -1,0 +1,1 @@
+2019-06-02 00:01:20.4119 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
